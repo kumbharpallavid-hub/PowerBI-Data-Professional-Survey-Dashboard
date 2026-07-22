@@ -29,9 +29,28 @@ This project is an interactive Power BI dashboard built using survey data from d
 
 ## Skills Demonstrated
 
+## Project Objective
+
+The objective of this project is to analyze survey responses from data professionals and identify trends in salaries, job roles, programming languages, work-life balance, and career satisfaction using Power BI. This dashboard helps users explore key insights through interactive visualizations.
 - Data Cleaning
 - Data Transformation
 - Dashboard Design
 - DAX Measures
+
+ ## Key Insights
+
+- Data Scientists have the highest average salary among the surveyed job roles.
+- Python is the most preferred programming language among data professionals.
+- The average age of survey participants is approximately 30 years.
+- Most respondents reported moderate difficulty in breaking into the data industry.
+- Work-life balance received a higher average rating than salary satisfaction.
+
+  ## Author
+
+**Pallavi Kumbhar**
+
+Aspiring Data Analyst
+
+GitHub: https://github.com/kumbharpallavid-hub
 - Data Visualization
 - Business Intelligence
